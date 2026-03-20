@@ -1,0 +1,30 @@
+/* Estilo do corpo da página */
+body {
+    background-color: #f0f0f0; /* cor de fundo */
+    font-family: Arial, sans-serif; /* fonte */
+    text-align: center; /* centralizar texto */
+}
+
+/* Estilo do título */
+h1 {
+    color: blue;
+}
+
+/* Estilo do parágrafo */
+p {
+    color: #333;
+    font-size: 18px;
+}
+
+/* Estilo da lista */
+ul {
+    list-style: none; /* remove bolinhas */
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
